@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+
+docs:
+
+- title: Home
+  link: "/"
+- title: Test
+  link: "/test"
